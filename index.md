@@ -2,7 +2,6 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Ссылки</title>
  </head>
  <body>
   <p><a href="https://www.google.ru/">Ссылка google откроется в этом окне</a></p>
